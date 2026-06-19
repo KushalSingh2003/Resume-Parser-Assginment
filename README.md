@@ -82,16 +82,4 @@ Technologies Used
 * spaCy
 * Regular Expressions (Regex)
 
-Project Structure
 
-Resume-Information-Extractor/
-
-├── Resume_Information_Extractor.ipynb
-
-├── resumes/
-
-│   └── sample_resume.pdf
-
-├── README.md
-
-└── requirements.txt
